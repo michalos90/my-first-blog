@@ -1,4 +1,4 @@
 # my-first-blog
-Jest to blog którego wersję można zobaczyć tutaj jak działa w praktyce : https://michasz.pythonanywhere.com/
-Jest to blog oparty na Django. 
-W tym bloku mogę usuwać posty, edytować je, oraz dodawać nowe.
+This is a blog version of which you can see here how it works in practice: https://michasz.pythonanywhere.com/
+This is a Django-based blog.
+In this blog I can delete posts, edit them and add new ones.
